@@ -1,4 +1,3 @@
-### Hi there 👋, I Hasibul Alam Ratul
 ![Banner](banner.png)
 
 #### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
