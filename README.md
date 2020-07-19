@@ -1,4 +1,4 @@
-![Banner](/banner.png)
+<img src="banner.png" alt="Logo">
 
 #### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
 
