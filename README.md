@@ -17,3 +17,10 @@ Skills : Vue js | Javascript | No Sql | Rest API |  Scss
 
 </details>
 
+<details>
+  <summary>:fire: Top Languages</summary>
+
+  <img align="center" alt="ratul16's Github lang used" src="https://github-readme-stats.ratul16.vercel.app/api/top-langs/?username=ratul16&layout=compact" />
+
+</details>
+
