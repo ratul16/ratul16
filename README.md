@@ -15,11 +15,11 @@
     <img width="32" src="https://simpleicons.org/icons/linkedin.svg"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ratul16/" style="background-color:#DC3545; border-radius:10px; padding-right:20px;">
+<a href="https://www.instagram.com/hasib.ratul/" style="background-color:#DC3545; border-radius:10px; padding-right:20px;">
     <img width="32" src="https://simpleicons.org/icons/instagram.svg"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ratul16/" style="background-color:#1DA1F2; border-radius:5px" >
+<a href="https://twitter.com/hasib_ratul08" style="background-color:#1DA1F2; border-radius:5px" >
     <img width="32" src="https://simpleicons.org/icons/twitter.svg"/>
 </a>
 
