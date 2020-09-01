@@ -10,4 +10,9 @@ Skills : Vue js | Javascript | No Sql | Rest API |  Scss
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ratul16)   -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ratul16&show_icons=true&show_icons=true&theme=dracula&hide=prs)
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="center" alt="ratul16's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=&show_icons=true&hide_border=true&theme=dracula&hide=prs" />
+
+</details>
