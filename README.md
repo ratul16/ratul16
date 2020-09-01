@@ -12,15 +12,6 @@
 🔭 I’m currently working on Vue js  
 <br>
 
-<a href="https://www.instagram.com/hasib.ratul/" >
-    <img width="32" style="background-color:#DC3545; border-radius:10px; margin-right:20px;" src="https://simpleicons.org/icons/instagram.svg"/>
-</a>
-
-<a href="https://twitter.com/hasib_ratul08"  >
-    <img width="32" style="background-color:#1DA1F2; border-radius:5px" src="https://simpleicons.org/icons/twitter.svg"/>
-</a>
-
-
 
 ### Things I'm working with... 👨‍💻
 <div style="display:flex;">
