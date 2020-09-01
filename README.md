@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on Vue js  
 <br>
-<hr>
+
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ratul16)   -->
 ### Connect With Me... 🤝
@@ -23,7 +23,7 @@
     <img width="32" src="https://simpleicons.org/icons/twitter.svg"/>
 </a>
 
-<hr>
+
 
 ### Things I'm working with... 👨‍💻
 <div style="display:flex;">
