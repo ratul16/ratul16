@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
 
-[![Github Profile Visits](https://badges.pufler.dev/visits/ratul16/ratul16?logo=GitHub&label=github%20visits&color=red&logoColor=white&style=for-the-badge)](https://gpvc.arturio.dev/https://github.com/ratul16)
+[![Github Profile Visits](https://badges.pufler.dev/visits/ratul16/ratul16?logo=GitHub&label=github%20visits&color=red&logoColor=white&style=for-the-badge)](https://github.com/ratul16)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=google&logoColor=white&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/)
+
 
 
 ### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
