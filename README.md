@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/) 
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/)
 ![Github Profile views](https://gpvc.arturio.dev/ratul16)
 
 
