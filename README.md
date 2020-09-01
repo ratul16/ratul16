@@ -1,12 +1,7 @@
 <img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/)
-
-
-<!-- [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://ratul16.netlify.app/)](https://www.linkedin.com/in/ratul16/)
-
-
-[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https://ratul16.netlify.app/)](https://www.instagram.com/hasib.ratul/) -->
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/) 
+![Github Profile views](https://gpvc.arturio.dev/ratul16)
 
 
 ### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
@@ -15,8 +10,6 @@
 🔭 I’m currently working on Vue js  
 <br>
 
-
-<!-- ![Profile views](https://gpvc.arturio.dev/ratul16)   -->
 ### Connect With Me... 🤝
 
 <a href="https://www.linkedin.com/in/ratul16/" >
