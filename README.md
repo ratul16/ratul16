@@ -10,23 +10,22 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ratul16)   -->
 ### Connect With Me... 🤝
-<br>
-<a href="https://www.linkedin.com/in/ratul16/">
-    <img width="32" style="background-color:#0077B5; border-radius:5px; margin-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
+
+<a href="https://www.linkedin.com/in/ratul16/" style="background-color:#0077B5; border-radius:5px; padding-right:20px;">
+    <img width="32" src="https://simpleicons.org/icons/linkedin.svg"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ratul16/">
-    <img width="32" style="background-color:#DC3545; border-radius:10px; margin-right:10px;" src="https://simpleicons.org/icons/instagram.svg"/>
+<a href="https://www.linkedin.com/in/ratul16/" style="background-color:#DC3545; border-radius:10px; padding-right:20px;">
+    <img width="32" src="https://simpleicons.org/icons/instagram.svg"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ratul16/">
-    <img width="32" style="background-color:#1DA1F2; border-radius:5px" src="https://simpleicons.org/icons/twitter.svg"/>
+<a href="https://www.linkedin.com/in/ratul16/" style="background-color:#1DA1F2; border-radius:5px" >
+    <img width="32" src="https://simpleicons.org/icons/twitter.svg"/>
 </a>
 
-<br>
+<hr>
 
 ### Things I'm working with... 👨‍💻
-<br>
 <div style="display:flex;">
    <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 
@@ -49,11 +48,13 @@
    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<br />
+<br>
 
 <details>
   <summary>:zap: Github Stats</summary>
+    
   <br>
+  
   <img align="center" alt="ratul16's Github Stats" src="https://github-readme-stats.ratul16.vercel.app/api?username=ratul16&show_icons=true&hide_border=true&theme=dracula&hide=prs" />
 
 </details>
