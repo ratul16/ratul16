@@ -1,8 +1,16 @@
 <img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
 
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/)
+
+
+<!-- [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://ratul16.netlify.app/)](https://www.linkedin.com/in/ratul16/)
+
+
+[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https://ratul16.netlify.app/)](https://www.instagram.com/hasib.ratul/) -->
+
+
 ### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
 
-[Check out my Portfolio 😎](https://ratul16.netlify.com/) 
 
 🔭 I’m currently working on Vue js  
 <br>
@@ -11,16 +19,16 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/ratul16)   -->
 ### Connect With Me... 🤝
 
-<a href="https://www.linkedin.com/in/ratul16/" style="background-color:#0077B5; border-radius:5px; padding-right:20px;">
-    <img width="32" src="https://simpleicons.org/icons/linkedin.svg"/>
+<a href="https://www.linkedin.com/in/ratul16/" >
+    <img style="background-color:#0077B5; border-radius:5px; margin-right:20px;" width="32" src="https://simpleicons.org/icons/linkedin.svg"/>
 </a>
 
-<a href="https://www.instagram.com/hasib.ratul/" style="background-color:#DC3545; border-radius:10px; padding-right:20px;">
-    <img width="32" src="https://simpleicons.org/icons/instagram.svg"/>
+<a href="https://www.instagram.com/hasib.ratul/" >
+    <img width="32" style="background-color:#DC3545; border-radius:10px; margin-right:20px;" src="https://simpleicons.org/icons/instagram.svg"/>
 </a>
 
-<a href="https://twitter.com/hasib_ratul08" style="background-color:#1DA1F2; border-radius:5px" >
-    <img width="32" src="https://simpleicons.org/icons/twitter.svg"/>
+<a href="https://twitter.com/hasib_ratul08"  >
+    <img width="32" style="background-color:#1DA1F2; border-radius:5px" src="https://simpleicons.org/icons/twitter.svg"/>
 </a>
 
 
@@ -70,11 +78,19 @@
   <summary>:zap: Recent Activity</summary>
   <br>
   <!--START_SECTION:activity-->
+
+
 1. 🎉 Merged PR [#1](https://github.com//ratul16/atmos/pull/1) in [ratul16/atmos](https://github.com//ratul16/atmos)
+
 2. 🎉 Merged PR [#2](https://github.com//ratul16/atmos/pull/2) in [ratul16/atmos](https://github.com//ratul16/atmos)
+
 3. 🎉 Merged PR [#1](https://github.com//ratul16/InVoicing/pull/1) in [ratul16/InVoicing](https://github.com//ratul16/InVoicing)
+
 4. 🎉 Merged PR [#3](https://github.com//ratul16/InVoicing/pull/3) in [ratul16/InVoicing](https://github.com//ratul16/InVoicing)
+
 5. 🎉 Merged PR [#2](https://github.com//ratul16/InVoicing/pull/2) in [ratul16/InVoicing](https://github.com//ratul16/InVoicing)
-<!--END_SECTION:activity-->
+
+
+  <!--END_SECTION:activity-->
 </details>
 
