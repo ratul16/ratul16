@@ -1,21 +1,16 @@
 <img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
 
-[![Github Profile Visits](https://badges.pufler.dev/visits/ratul16/ratul16?logo=GitHub&label=github%20visits&color=red&logoColor=white&style=for-the-badge)](https://github.com/ratul16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ratul16/)
+[![Instagram](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hasib.ratul/)
+[![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hasib_ratul08)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=vue.js&logoColor=white&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/)
-
-
+[![Github Profile Visits](https://badges.pufler.dev/visits/ratul16/ratul16?logo=GitHub&label=github%20visits&color=red&logoColor=white&style=for-the-badge)](https://github.com/ratul16)
 
 ### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
 
 
 🔭 I’m currently working on Vue js  
 <br>
-
-### Connect With Me... 🤝
-
-<a href="https://www.linkedin.com/in/ratul16/" >
-    <img style="background-color:#0077B5; border-radius:5px; margin-right:20px;" width="32" src="https://simpleicons.org/icons/linkedin.svg"/>
-</a>
 
 <a href="https://www.instagram.com/hasib.ratul/" >
     <img width="32" style="background-color:#DC3545; border-radius:10px; margin-right:20px;" src="https://simpleicons.org/icons/instagram.svg"/>
