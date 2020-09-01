@@ -13,6 +13,7 @@ Skills : Vue js | Javascript | No Sql | Rest API |  Scss
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="center" alt="ratul16's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=&show_icons=true&hide_border=true&theme=dracula&hide=prs" />
+  <img align="center" alt="ratul16's Github Stats" src="https://github-readme-stats.ratul16.vercel.app/api?username=&show_icons=true&hide_border=true&theme=dracula&hide=prs" />
 
 </details>
+
