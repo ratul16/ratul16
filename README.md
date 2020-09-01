@@ -12,18 +12,18 @@
 ### Connect With Me... 🤝
 <br>
 <a href="https://www.linkedin.com/in/ratul16/">
-    <img width="32" style="background-color:#0077B5; border-radius:5px" src="https://simpleicons.org/icons/linkedin.svg"/>
+    <img width="32" style="background-color:#0077B5; border-radius:5px; margin-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ratul16/">
-    <img width="32" style="background-color:#DC3545; border-radius:10px" src="https://simpleicons.org/icons/instagram.svg"/>
+    <img width="32" style="background-color:#DC3545; border-radius:10px; margin-right:10px;" src="https://simpleicons.org/icons/instagram.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ratul16/">
     <img width="32" style="background-color:#1DA1F2; border-radius:5px" src="https://simpleicons.org/icons/twitter.svg"/>
 </a>
 
-<br><br>
+<br>
 
 ### Things I'm working with... 👨‍💻
 <br>
@@ -48,7 +48,7 @@
 
    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-<br />
+
 <br />
 
 <details>
