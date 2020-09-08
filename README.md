@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ratul16/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23316192.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ratul16/)
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hasib.ratul/)
 [![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hasib_ratul08)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=vue.js&logoColor=white&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/)
