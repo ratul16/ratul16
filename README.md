@@ -34,6 +34,16 @@
    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+   
+   <img src="https://img.shields.io/badge/npm%20-%23323330.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+   
+   <img src="https://img.shields.io/badge/figma%20-%23F05033.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+   
+   <img src="https://img.shields.io/badge/nosql%20-%2307405e.svg?&style=for-the-badge&logo=nosql&logoColor=white"/>
+      
+   <img src ="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+   
+   
 </div>
 
 <br>
