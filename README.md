@@ -21,9 +21,6 @@
       
    </td>
 </table>
-  
-<br>
-
 
 ### Things I'm working with... 👨‍💻
 <div style="display:flex;">
