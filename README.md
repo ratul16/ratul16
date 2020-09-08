@@ -8,8 +8,20 @@
 
 ### Software Engineer | Front End - Developer | Network Security & Pen-Testing Enthusiast
 
-
-🔭 I’m currently working on Vue js  
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+     
+      🔭I’m currently working on Vue js
+      
+  </td>
+   <td width="50%">
+   
+      🔥Spotify music player incoming
+      
+   </td>
+</table>
+  
 <br>
 
 
