@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/banner.png">
+<img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/cover.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23316192.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ratul16/)
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hasib.ratul/)
