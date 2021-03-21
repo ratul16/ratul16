@@ -55,21 +55,4 @@
    
 </div>
 
-<br>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-    
-  <br>
-  
-  <img align="center" alt="ratul16's Github Stats" src="https://github-readme-stats.ratul16.vercel.app/api?username=ratul16&show_icons=true&hide_border=true&theme=dracula&hide=prs" />
-
-</details>
-
-<details>
-  <summary>:fire: Top Languages</summary>
-  <br>
-  <img align="center" alt="ratul16's Github lang used" src="https://github-readme-stats.ratul16.vercel.app/api/top-langs/?username=ratul16&layout=compact" />
-</details>
-
 
