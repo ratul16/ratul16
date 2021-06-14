@@ -8,7 +8,7 @@
 
 ### Software Engineer | Web Developer | Someone Who Is Hacking The Web With Html, Css & Js...🔥
 
-<table width="100%"> 
+<!-- <table width="100%"> 
   <tr>
   <td width="50%">
      
@@ -20,7 +20,7 @@
       🔥Spotify music player incoming
       
    </td>
-</table>
+</table> -->
 
 ### Things I'm working with... 👨‍💻
 <div style="display:flex;">
