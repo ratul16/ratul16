@@ -55,6 +55,6 @@
    
 </div>
 
-<a href="https://app.daily.dev/ratul16"><img src="https://api.daily.dev/devcards/2d2b134b99aa428b8c71e425de027d3c.png?r=1n7" width="400" alt="Hasibul Alam Ratul's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ratul16"><img src="https://api.daily.dev/devcards/2d2b134b99aa428b8c71e425de027d3c.png?r=1n7" width="400" alt="Hasibul Alam Ratul's Dev Card"/></a> -->
 
 
