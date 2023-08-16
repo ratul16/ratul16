@@ -1,8 +1,4 @@
-<img src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/cover.gif">
 
----
-
-# 💫 About Me:
 Frontend Developer || Cyber Security Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23316192.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ratul16/)
