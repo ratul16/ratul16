@@ -1,22 +1,6 @@
-<h2 align="center"> ✌️ Hey there !!  I am Hasibul Alam Ratul </h2>
-
+<a href="https://app.daily.dev/ratul16"><img src="https://api.daily.dev/devcards/v2/Idvcx8vXmrL5PpZJ1xvKD.png?type=wide" height="20%" width="100%" alt="Hasibul Alam Ratul's Dev Card"/></a>
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ratul16/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/ratul16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
-  </a>
-  
-  <!-- [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=vue.js&logoColor=white&url=https://ratul16.netlify.app/)](https://ratul16.netlify.app/) -->
-  
-  [![](https://visitcount.itsvg.in/api?id=ratul16&icon=2&color=3)](https://visitcount.itsvg.in)
-</div>
-
-###
-
+[![](https://visitcount.itsvg.in/api?id=ratul16&icon=2&color=3)](https://visitcount.itsvg.in)
 <p align="left">-👋 I'm a passionate frontend developer.<br>- 🛠️ Currently, I'm in the process of enhancing my previous pet projects using Vue.js and Nuxt.js to create more dynamic and engaging user experiences.<br>- 🔐 Beyond coding, I have a strong fascination for the realm of cyber security and ethical hacking.<br>- 📖 I'm always on the lookout for opportunities to expand my knowledge and skills in this exciting field.</p>
 
 ###
@@ -80,17 +64,8 @@
 ###
 
 <div align="left">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ratul16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=true&order=1&custom_title=Github Stats" height="150" alt="stats graph" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ratul16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Github Stats" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ratul16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ratul16&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h4 align="left">📃 Quote of the day</h4>
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="150" alt="streak graph"  />
 </div>
 
 ###
