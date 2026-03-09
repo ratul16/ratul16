@@ -21,14 +21,6 @@
 
 ---
 
-### 🔥 Activity & Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ratul16&show_icons=true&theme=tokyonight&title_color=59B6E1&icon_color=59B6E1&text_color=ffffff&bg_color=151515&hide_border=true&hide_rank=false&custom_title=GitHub%20Stats" height="195" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul16&layout=compact&theme=tokyonight&title_color=59B6E1&icon_color=59B6E1&text_color=ffffff&bg_color=151515&hide_border=true&card_width=350" height="195" /> 
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ratul16/" target="blank">
